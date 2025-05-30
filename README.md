@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm an aspiring Software Developer working on Full-Stack Web Applications.<br>
+I'm a aspiring Software Developer working on Full-Stack Web Applications.<br>
 
 
 ## 🌐 Socials:
