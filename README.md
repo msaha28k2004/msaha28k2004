@@ -1,85 +1,84 @@
-
-<!-- ========================= -->
-<!--  Animated Header Section  -->
-<!-- ========================= -->
+<!-- ====================================================== -->
+<!--  Elite Digital Design Engineer – Recruiter Edition    -->
+<!-- ====================================================== -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=800&color=00E6FF&center=true&vCenter=true&width=900&lines=Digital+Design+Engineer;RTL+Design+%7C+FPGA+%7C+ASIC;Verilog+%7C+SystemVerilog+%7C+SVA;Timing-Clean+%7C+Synthesizable+Designs" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=30&pause=1000&color=00E6FF&center=true&vCenter=true&width=950&lines=Digital+Design+Engineer;RTL+Design+%7C+FPGA+%7C+ASIC;Verilog+%7C+SystemVerilog+%7C+SVA;Timing-Clean+Production-Ready+Designs" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/RTL-Verilog-blue?style=for-the-badge&logo=v&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SystemVerilog-Advanced-purple?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/FPGA-Xilinx%20%7C%20Intel-orange?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/ASIC-Ready-green?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/RTL-Production_Quality-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Verification-Assertion_Driven-purple?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Timing-Closure_Focused-green?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/ASIC-Ready-orange?style=for-the-badge"/>
 </p>
 
 ---
 
-## 🧑‍💻 About Me
+## 👨‍💻 Professional Summary
 
-I am a **Digital Design Engineer** specializing in **RTL design, verification, and hardware implementation** for **FPGA and ASIC flows**.
+I am a **Digital Design Engineer** focused on **robust RTL design, verification, and hardware implementation** for **FPGA and ASIC flows**.
 
-I focus on:
-- ✔️ Clean, synthesizable RTL
-- ✔️ Timing-aware microarchitecture
-- ✔️ Verification-driven design
-- ✔️ Industry-standard toolchains
+My work emphasizes:
+- ✔️ **Synthesizable, lint-clean RTL**
+- ✔️ **Timing-aware microarchitecture**
+- ✔️ **Verification-first design mindset**
+- ✔️ **Clear documentation & design intent**
 
-This repository serves as a **professional hardware portfolio** demonstrating **real-world digital design practices** — not toy examples.
+This repository is a **curated hardware portfolio** demonstrating how I design **real, tape-in-ready digital systems**, not academic demos.
 
 ---
 
-## 🧠 Core Expertise
+## 🧠 Core Competencies (What I’m Strong At)
 
-### 🔹 RTL & Microarchitecture
-- Pipeline design (single-cycle & multi-cycle)
-- FSM-based control logic
-- Datapath & control separation
-- Parameterized, reusable RTL
-- Clock gating & reset strategies
+### RTL & Architecture
+- Pipeline and multi-cycle designs
+- Datapath/control partitioning
+- FSMs with formal reset behavior
+- Parameterized, reusable modules
+- Clocking, reset, and enable strategies
 
-### 🔹 Verification
+### Verification
 - Directed & self-checking testbenches
 - SystemVerilog Assertions (SVA)
-- CDC verification techniques
-- Waveform-driven debugging
+- CDC-safe design & verification
+- Waveform-centric debug discipline
 
-### 🔹 FPGA & ASIC Design
+### FPGA / ASIC Design
 - FPGA synthesis & implementation
-- ASIC-friendly RTL coding style
-- Timing constraints (SDC/XDC)
-- Area / Power / Performance trade-offs
+- ASIC-friendly RTL style
+- SDC/XDC constraint writing
+- Area / Power / Timing trade-offs
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Technical Stack
 
-### 💻 Languages
-![Verilog](https://img.shields.io/badge/Verilog-90%25-blue)
-![SystemVerilog](https://img.shields.io/badge/SystemVerilog-85%25-purple)
-![VHDL](https://img.shields.io/badge/VHDL-40%25-lightgrey)
-![Python](https://img.shields.io/badge/Python-60%25-yellow)
+### Languages
+![Verilog](https://img.shields.io/badge/Verilog-Expert-blue)
+![SystemVerilog](https://img.shields.io/badge/SystemVerilog-Advanced-purple)
+![VHDL](https://img.shields.io/badge/VHDL-Basic-lightgrey)
+![Python](https://img.shields.io/badge/Python-Intermediate-yellow)
 
-### 🔧 Tools
+### Tools
 <p>
-  <img src="https://img.shields.io/badge/Vivado-Expert-red"/>
+  <img src="https://img.shields.io/badge/Vivado-Advanced-red"/>
   <img src="https://img.shields.io/badge/Quartus-Advanced-blue"/>
   <img src="https://img.shields.io/badge/ModelSim-Advanced-green"/>
   <img src="https://img.shields.io/badge/QuestaSim-Intermediate-yellow"/>
-  <img src="https://img.shields.io/badge/Design%20Compiler-Basic-lightgrey"/>
+  <img src="https://img.shields.io/badge/Design_Compiler-Working_Knowledge-lightgrey"/>
 </p>
 
 ---
 
-## 📁 Repository Structure
+## 📁 Repository Structure (Industry-Standard)
 
 ```text
 .
-├── rtl/            # Synthesizable RTL (Verilog/SystemVerilog)
-├── tb/             # Testbenches, assertions, scoreboards
-├── sim/            # Simulation scripts & waveform outputs
-├── synth/          # Synthesis constraints & reports
-├── impl/           # FPGA implementation results
-├── docs/           # Block diagrams, timing & design notes
+├── rtl/        # Synthesizable RTL (timing-clean, lint-clean)
+├── tb/         # Self-checking testbenches & assertions
+├── sim/        # Simulation scripts and waveforms
+├── synth/      # Synthesis constraints & reports
+├── impl/       # FPGA implementation results
+├── docs/       # Architecture diagrams & design rationale
 └── README.md
